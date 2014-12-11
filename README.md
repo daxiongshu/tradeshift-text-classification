@@ -2,6 +2,10 @@ This code generates the 1st place solution of Tradeshift Text Classification fro
 
 https://www.kaggle.com/c/tradeshift-text-classification
 
+It mainly includes two kinds of models:
+1) two-stage models using Xgboost and sklearn.
+2) online logistic regression. 
+
 Dependencies
 Python 2.7
 pypy 2.4.0
